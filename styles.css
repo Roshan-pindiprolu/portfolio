@@ -1,0 +1,112 @@
+
+#NavigationBar{
+  background: #ffc93c;
+  padding-bottom: 100px;
+}
+#NavHeading{
+  padding-left: 100px;
+  font-size: 30px;
+}
+#NavImg{
+  padding-left: 400px;
+  padding-top: 100px;
+}
+#NavBody{
+  /*padding: 100px 100px 200px 100px;*/
+}
+#TextNav1{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 20px;
+  color: #4ca1a3;
+  padding-bottom: 50px;
+}
+
+#Gradimg{
+  padding-top: 50px;
+  padding-left: 600px;
+  padding-right: 700px;
+  padding-bottom: 50px;
+}
+#TextNav2{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 15px;
+  color: #4ca1a3;
+  padding-bottom: 50px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+#BodyWeb{
+  /*background: #ffc93c;*/
+}
+
+.HobbiesList{
+  background: #ffc93c;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.HobbiesHead{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+.Hobbies1{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 30px;
+  padding-left: 300px;
+}
+.Hobbies2{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 30px;
+  padding-left: 300px;
+}
+.Hobbie2-img{
+  padding-left: 300px;
+}
+.Hobbies3{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 30px;
+  padding-left: 300px;
+}
+.Hobbies3-img{
+  padding-left: 485px;
+}
+.Hobbies4{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 30px;
+  padding-left: 300px;
+}
+.Hobbies4-img{
+  padding-left: 410px;
+}
+
+.footerSec{
+  text-align: center;
+}
+
+body{
+  margin: 0;
+}
+
+h2{
+  font-family: 'Pattaya', sans-serif;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-family: 'Pattaya', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #511281;
+}
+hr{
+  border: dotted #F55C47 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+td{
+  padding-left: 10px;
+}
